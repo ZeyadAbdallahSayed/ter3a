@@ -701,6 +701,59 @@ footer img {
     margin-right: 10px;
 }
 
+.icon-box30 {
+    background: url('/img/Screenshot_20250512_164018_Gallery\ -\ Shahd\ Salem.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.icon-box31 {
+    background: url('/img/Screenshot_2025-05-12-20-20-04-80\ -\ Hana\ ehab.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.icon-box32 {
+    background: url('/img/IMG-20250512-WA0063\ -\ Laila\ Reda.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+
+.icon-box33 {
+    background: url('/img/IMG_20250508_153338\ -\ Ahmed\ Essa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
 
 .icon-box::before {
     font-size: 16px;
