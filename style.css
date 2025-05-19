@@ -131,7 +131,9 @@ body {
 
     .header h1 {
         text-align: center;
-        font-size: 30px;
+        font-size: 20px;
+        font-family: fantasy;
+        font-weight: 1000;
     }
 
     .header img {
@@ -162,9 +164,10 @@ body {
 
 @media (max-width : 360px) {
     .frame-sec h1 {
-        font-size: 30px;
+        font-size: 20px;
         padding: 20px;
         font-weight: 1000;
+        font-family: fantasy;
     }
 
     .frame-container {
