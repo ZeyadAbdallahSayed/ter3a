@@ -58,7 +58,7 @@ body {
         background-color: #000000;
         padding: 0 10px;
         box-shadow: 0 4px 8px rgb(92, 121, 127);
-        
+
     }
 
     .navbar-brand img {
@@ -131,7 +131,7 @@ body {
 
     .header h1 {
         text-align: center;
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .header img {
@@ -162,13 +162,14 @@ body {
 
 @media (max-width : 360px) {
     .frame-sec h1 {
-        font-size: 26px;
+        font-size: 30px;
         padding: 20px;
-        font-weight: bolder;
+        font-weight: 1000;
     }
 
     .frame-container {
         width: fit-content;
+        margin: auto;
         /* margin: auto; */
     }
 
