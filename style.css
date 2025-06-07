@@ -333,6 +333,14 @@ footer img {
     padding: 20px;
     width: 360px;
     position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 255, 255, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 25px rgba(0, 255, 255, 0.3);
 }
 
 .card-header {
@@ -860,4 +868,74 @@ footer img {
     .nav-bar .right-nav ul li a {
         margin: 10px;
     }
+}
+
+.gallery-body {
+    background-color: #022c33;
+}
+
+.hero-video video {
+    margin: auto;
+    padding: 5px 30px;
+    width: 1500px;
+    height: 500px;
+}
+
+.image-one img {
+    margin-top: 20px;
+    width: 350px;
+    height: min-content;
+}
+
+.image-one .img-2 img {
+    margin-top: 30px;
+}
+
+.hero-video2 video {
+    margin: auto;
+    padding: 10px 30px;
+    width: 1500px;
+    height: 500px;
+}
+
+.img-two-one .img-left img {
+    width: 750px;
+}
+
+.img-two-two img {
+    width: 370px;
+}
+
+.img-two-three img {
+    margin: 10px;
+    width: 700px;
+    height: 500px;
+}
+
+.img-two-two video {
+    width: 370px;
+}
+
+.img-two-three video {
+    margin: 10px;
+    width: 700px;
+    height: 500px;
+}
+
+.img-two-one .img-left2 img {
+    width: 845px;
+}
+
+.img-two-thre video {
+    margin: 0px;
+    width: 750px;
+    height: 500px;
+}
+
+.ending-p p {
+    font-family: fantasy;
+    font-size: 23px;
+    font-weight: bolder;
+    margin: 100px 0;
+    color: rgb(238, 250, 249);
 }
